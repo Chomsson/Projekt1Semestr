@@ -1,0 +1,4 @@
+& --> to operator wyłuskania
+
+
+2. zajecia: instrukcja warunkowe oraz petle
